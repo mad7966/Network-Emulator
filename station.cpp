@@ -1,7 +1,7 @@
 /* Course: CNT5505 - Data and Computer Communications
    Semester: Fall 2023
-   Team: Sai Kalyan Tarun Tiruchirapally - ST22Q
-         Shivam Agnihotri - SA22B
+   Team: Madhu Gangadhar - mkg22b
+         Kartik Gupta - kg22e
  */
 
 
