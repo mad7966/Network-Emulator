@@ -1,7 +1,7 @@
 1. Author/email address
 
-	Sai Kalyan Tarun Tiruchirapally - ST22Q
-	Shivam Agnihotri - SA22B
+	Madhu Gangadhar - mkg22b
+        Kartik Gupta - kg22e
 
 2. How to compile the code
 
